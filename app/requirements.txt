@@ -1,0 +1,4 @@
+Flask==1.1.2
+pythainlp==2.3.1
+deepcut==0.7.0.0
+python-docx==0.8.10
